@@ -1,0 +1,83 @@
+{
+  "factors": {
+    "precision": 100.0,
+    "resolve": 100.0,
+    "innovation": 100.0,
+    "harmony": 100.0
+  },
+  "alignment_pct": 99.49,
+  "top_drivers": [
+    {
+      "metric": "novelty_ideation",
+      "factor": "Innovation",
+      "contribution": 68.25
+    },
+    {
+      "metric": "energy",
+      "factor": "Resolve",
+      "contribution": 62.1
+    },
+    {
+      "metric": "attention_listening",
+      "factor": "Harmony",
+      "contribution": 58.1
+    },
+    {
+      "metric": "objectivity",
+      "factor": "Precision",
+      "contribution": 49.98
+    },
+    {
+      "metric": "talk_balance",
+      "factor": "Harmony",
+      "contribution": 49.4
+    },
+    {
+      "metric": "clarity_conciseness",
+      "factor": "Precision",
+      "contribution": 47.65
+    },
+    {
+      "metric": "positivity_tone",
+      "factor": "Harmony",
+      "contribution": 41.0
+    },
+    {
+      "metric": "patience",
+      "factor": "Harmony",
+      "contribution": 39.58
+    }
+  ],
+  "normalized_metrics": {
+    "curated": {
+      "objectivity": 68.0,
+      "clarity_conciseness": 69.80952380952381,
+      "energy": 72.0,
+      "decision_orientation": 45.0,
+      "followup_questions": 30.0,
+      "novelty_ideation": 70.0,
+      "attention_listening": 83.0,
+      "talk_balance": 76.0,
+      "patience": 52.77777777777778,
+      "positivity_tone": 68.33333333333333
+    },
+    "raw": {
+      "positivity": 70.0,
+      "negativity_inv": 85.0,
+      "objectivity": 68.0,
+      "filler_inv": 92.0,
+      "avg_sentence_len_norm": 47.61904761904761,
+      "patience_norm": 52.77777777777778,
+      "kw_strength": 70.0,
+      "energy": 72.0,
+      "emo_pos": 50.0,
+      "emo_neu": 35.0,
+      "emo_neg_inv": 85.0,
+      "attention_att": 80.0,
+      "attention_dist_inv": 90.0,
+      "talk_balance": 76.0,
+      "action_items": 45.0,
+      "followup_questions": 30.0
+    }
+  }
+}

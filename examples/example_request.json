@@ -1,0 +1,46 @@
+{
+  "spiky": {
+    "language": {
+      "objectivity": 0.68,
+      "filler_ratio": 0.08,
+      "avg_sentence_len": 14,
+      "positivity_classes": {
+        "positive": 0.55,
+        "neutral": 0.3,
+        "negative": 0.15
+      },
+      "keywords": {
+        "idea": 0.8,
+        "novel": 0.6
+      },
+      "patience": 95
+    },
+    "vocal": {
+      "energy": {
+        "energetic": 0.72,
+        "monotonic": 0.1
+      },
+      "emotions": {
+        "happy": 0.5,
+        "neutral": 0.35,
+        "sad": 0.1,
+        "angry": 0.05
+      }
+    },
+    "facial": {
+      "attention": {
+        "attentive": 0.7,
+        "normal": 0.2,
+        "distracted": 0.1
+      }
+    },
+    "interaction": {
+      "talk_listen": 0.62
+    },
+    "highlevel": {
+      "action_items": 0.45,
+      "followup_questions": 0.3
+    }
+  },
+  "pattern_id": 15
+}

@@ -1,0 +1,12 @@
+DEPLOYMENT_GUIDE.md | f8140038c0b0 | 30 bytes
+Dockerfile | ec1cfc274246 | 198 bytes
+README.md | 0deec487a9c0 | 113 bytes
+__pycache__/scorer.cpython-311.pyc | f39e9332226b | 21745 bytes
+api.py | 0ea67cddb006 | 816 bytes
+config/multipliers.json | 1972c9d28daa | 82 bytes
+config/patterns.json | 09068c80b526 | 4337 bytes
+config/weights.json | 17041230d795 | 1134 bytes
+examples/example_request.json | 658c4062b03b | 840 bytes
+examples/example_response.json | 635b7aa621c3 | 1867 bytes
+requirements.txt | f8cb8d3bac43 | 49 bytes
+scorer.py | a2f7e5050a45 | 10613 bytes
